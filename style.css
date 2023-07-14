@@ -73,3 +73,67 @@
     text-transform: uppercase;
     margin-top: 40px;
 }
+.header_img {
+    margin-left: 75px;
+    margin-top: 97px;
+}
+.header_img img {
+    width: 450px;
+    height: 450px;
+}
+.logos_top {
+    color: #667085;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 100%;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 157px;
+    margin-bottom: 16px;
+}
+.logos {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background: #F6F6F6;
+    width: 915px;
+    border-radius: 10px;
+    padding: 19px 24px;
+}
+.logos img {
+    width: 150px;
+    height: 48px;
+}
+.Branding_system {
+    display: flex;
+    gap: 180px;
+}
+.Branding_system .system_img img{
+    width: 450px;
+    height: 450px;
+    margin-top: 136px;
+}
+.Branding_system .system_letter h2 {
+    margin-top: 233px;
+    width: 435.687px;
+    color: #272D38;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 100%;
+    text-transform: capitalize;
+}
+.Branding_system .system_letter p {
+    margin-top: 26px;
+    width: 392.217px;
+    color: #272D38;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.5px;
+    text-transform: capitalize;
+}
+.Branding_system .system_letter h3 {
+    margin-top: 46px;
+    width: 22.229px;
+    stroke-width: 2px;
+    stroke: #272D38;
+}
